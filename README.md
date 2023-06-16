@@ -7,6 +7,6 @@ This is a double-height Flip Chip board which is a modern version of the DEC M93
 <ul>
 <li>Received the first build of 10 boards from JLCPCB. Resistance check is good.</li>
 <li>Currently testing the terminator with the RK05 disk emulator.</li>
-<liNo testing with actual DEC RK05 disk drives has been performed.</li>
+<li>No testing with actual DEC RK05 disk drives has been performed.</li>
 <li>No testing with Unibus has been performed.</li>
 </ul>
